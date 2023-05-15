@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FNMovieLibrary", "FNMovieLibrary\FNMovieLibrary.csproj", "{46196A3F-E668-4EB3-909F-7DBE710EA025}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieLibraryEntities", "MovieLibraryEntities\MovieLibraryEntities.csproj", "{C19E6C65-0BA9-418B-87CD-859AB795A2BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46196A3F-E668-4EB3-909F-7DBE710EA025}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46196A3F-E668-4EB3-909F-7DBE710EA025}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46196A3F-E668-4EB3-909F-7DBE710EA025}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46196A3F-E668-4EB3-909F-7DBE710EA025}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C19E6C65-0BA9-418B-87CD-859AB795A2BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C19E6C65-0BA9-418B-87CD-859AB795A2BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C19E6C65-0BA9-418B-87CD-859AB795A2BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C19E6C65-0BA9-418B-87CD-859AB795A2BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
